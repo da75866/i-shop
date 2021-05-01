@@ -1,0 +1,12 @@
+{
+  "name": "i-shop",
+  "version": "1.0.0",
+  "description": "ecommerce website with PHP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/style.scss style.css --watch"
+  },
+  "author": "shysqui conan",
+  "license": "ISC"
+}
